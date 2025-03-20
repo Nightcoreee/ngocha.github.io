@@ -1,6 +1,11 @@
 # 💰 ỨNG DỤNG QUẢN LÝ SỔ TIẾT KIỆM
 ## 📌 Giới thiệu thành viên
-
+|Tên thành viên | Mã số sinh viên |
+|---------------|-----------------|
+|Đào Ngọc Hà    | 3121411062 |
+|Trần Hửu Hậu   | 3121411068 |
+|Võ Khánh Linh  | 3121411122 |
+|Nguyễn Ngọc Khôi | 3121411108|
 ## 📌 Giới Thiệu
 Ứng dụng quản lý sổ tiết kiệm giúp người dùng theo dõi và quản lý các khoản tiết kiệm cá nhân một cách dễ dàng.  
 Với giao diện trực quan, người dùng có thể:
