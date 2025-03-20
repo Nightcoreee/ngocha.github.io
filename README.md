@@ -31,7 +31,7 @@ Với giao diện trực quan, người dùng có thể:
 ## 🛠 Công Nghệ Sử Dụng
 - **Ngôn ngữ**: Python  
 - **Giao diện**: Tkinter  
-- **Cơ sở dữ liệu**: SQLite  
+- **Cơ sở dữ liệu**: MySQL  
 - **Thư viện hỗ trợ**: Pandas, openpyxl (xuất Excel), datetime  
 
 ---
@@ -42,7 +42,7 @@ Với giao diện trực quan, người dùng có thể:
 |-----------------|----------------------------------------------------|--------|
 | **Giai đoạn 1** | Phân tích yêu cầu, xác định phạm vi dự án          | 1 tuần |
 | **Giai đoạn 2** | Thiết kế giao diện ứng dụng với Tkinter            | 1 tuần |
-| **Giai đoạn 3** | Xây dựng hệ thống lưu trữ với SQLite               | 1 tuần |
+| **Giai đoạn 3** | Xây dựng hệ thống lưu trữ với MySQL                | 1 tuần |
 | **Giai đoạn 4** | Phát triển chức năng chính (mở, gửi, rút, đóng sổ) | 1 tuần |
 | **Giai đoạn 5** | Kiểm thử ứng dụng, sửa lỗi                         | 1 tuần |
 | **Giai đoạn 6** | Hoàn thiện tài liệu hướng dẫn sử dụng              | 1 tuần |
